@@ -21,7 +21,7 @@ permalink: /people/veronicamalizia/
           <a href="https://twitter.com/VeronicaMalizia">Twitter</a></p>     
     </div>
     <div class="col-4">
-        <img class="card-img-top" src="/assets/pictures/Veronica.jpg" alt="" width="100" height="200"/>
+        <img class="card-img-top" src="/assets/pictures/Veronica.jpg" alt="" width="150" height="200" style="width:80%"/>
     </div>
 </div>
 

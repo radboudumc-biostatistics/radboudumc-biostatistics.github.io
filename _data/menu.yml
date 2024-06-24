@@ -3,6 +3,13 @@
 
 - title: Research
   link: "/research/"
+  sub:
+    - title: Topic 1
+      link: "/research/topic1"
+    - title: Topic 2
+      link: "/research/topic2"
+    - title: Topic 3
+      link: "/research/topic3"
 
 - title: People
   link: "/people/"

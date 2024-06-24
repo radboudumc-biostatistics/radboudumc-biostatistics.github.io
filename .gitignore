@@ -1,0 +1,8 @@
+vendor/
+assets/
+_site/
+.bundle/
+.sass-cache/
+
+Gemfile.lock
+Gemfile

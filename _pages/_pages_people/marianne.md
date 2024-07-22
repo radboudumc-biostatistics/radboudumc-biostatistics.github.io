@@ -15,11 +15,10 @@ permalink: /people/marianne/
     </div>
 </div>
 
-
+<br>
 <br>
 <p>E: marianne.jonker - at - Radboudumc.nl</p>   
-
-
+<p><a href="https://scholar.google.com/citations?user=19gFs70AAAAJ&hl=en">Google Scholar</a></p>  
 
 
 

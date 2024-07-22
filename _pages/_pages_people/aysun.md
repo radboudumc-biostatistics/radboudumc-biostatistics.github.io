@@ -14,7 +14,7 @@ permalink: /people/aysun/
         <img  src="/assets/pictures/people/Aysun.jpg" alt="" style="width:60%"/>
     </div>
 </div>
-
+<br>
 <br>
 <p>E: Aysun.cetinyurek-yavuz - at - Radboudumc.nl</p>
 <p><a href="https://www.linkedin.com/in/aysun-cetinyurek-yavuz-b55607a/">LinkedIn</a>

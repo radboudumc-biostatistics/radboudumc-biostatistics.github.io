@@ -57,6 +57,6 @@ Coming soon. -->
 
 #### People
 
-Veronica Malizia, Jordache Ramijth, Federica Giardina, Kit (C.B.) Roes
+Jordache Ramijth, Federica Giardina, Kit (C.B.) Roes
 
 

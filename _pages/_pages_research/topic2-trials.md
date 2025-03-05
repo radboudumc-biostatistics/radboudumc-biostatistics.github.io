@@ -3,7 +3,10 @@ layout: default
 permalink: /research/trials/
 ---
 
-## Innovative clinical trials for rare diseases
+
+
+
+# Innovative clinical trials for rare diseases
 
 Rare diseases are a specific focus of the Radboudumc, and many of such diseases lack even the beginning of effective (drug) treatments. As part of the Radboudumc’s concerted effort to bring novel treatment options to rare disease patients, the research at the Biostatistics section focuses on trial designs and analyses that meet the challenge that typically the numbers of patients that can engage in clinical trials are small. Methodological alternatives considered cover a broad range: Leveraging mechanistic modelling and extrapolation for efficient trials, augmenting trials with external control data (control group or historical disease course), basket trials across mechanistically similar diseases for repurposed drugs, n-of-1 designs and Bayesian approaches. It also includes improving and validating novel outcomes (such as Goal Attainment Scaling) that can deal with the heterogeneity between patients that is also typical for many rare diseases.
 
@@ -14,7 +17,10 @@ Rare diseases are a specific focus of the Radboudumc, and many of such diseases 
 
 _(HORIZON-HLTH-2022-DISEASE-06-04; 2023-2027)_
 
-SIMPATHIC’s main objective is to accelerate drug repurposing for rare neurological, neurometabolic and neuromuscular disorders. SIMPATHIC’s main accelerating innovation is the simultaneous drug development for groups of patients with different genetic diagnoses but overlapping neurological symptoms and molecular pathomechanisms. The biostatistics contribution is focused on designs of innovative basket clinical trials to which patients with different disorders are recruited, utilizing and aggregating personalized clinical endpoints. 
+
+SIMPATHIC’s main objective is to accelerate drug repurposing for rare neurological, neurometabolic and neuromuscular disorders. SIMPATHIC’s main accelerating innovation is the simultaneous drug development for groups of patients with different genetic diagnoses but overlapping neurological symptoms and molecular pathomechanisms. The biostatistics contribution is focused on designs of innovative basket clinical trials to which patients with different disorders are recruited, utilizing and aggregating personalized clinical endpoints.
+
+<br>
 
 **INVENTS**
 
@@ -22,10 +28,19 @@ _(HORIZON-HLTH-2023-IND-06-04; 2024-2028)_
 
 To provide clinical trial stakeholders, trialists and regulators with a generalisable framework encompassing methods, workflows and evidence-tools to improve the level of evidence in regulatory decision making in rare diseases. Biostatistics is Work Package lead, focusing on integrating the novel methodologies into a credibility framework to guide regulatory use of advanced modelling solutions. A key asset in the project is the large amount of clinical trial and modelling data that will be shared by pharmaceutical companies, as well as real world data from French rare disease registries.
 
+<br>
+
+**IHI RealiseD**
+
+_(Innovative Health Initiative Joint Undertaking (IHI JU) under grant agreement No 101165912)_
+
+By bringing together experts from various fields, RealiseD ([https://realised-ihi.eu](https://realised-ihi.eu)) will generate cutting-edge operational and methodological tools and resources for drug development clinical trials for (ultra)rare diseases. It will include a co-creation process involving clinicians, methodologists, pharmaceutical industry researchers, representatives from patient organisations, regulatory agencies and HTA bodies. Biostatistics leads the Regulatory and HTA Work Package, which will deliver important research results and frameworks to directly impact regulatory and HTA decision makeink for (ultra) rare diseases.
+
+<br>
 
 #### People
 
-Kit Roes, Joanna in 't Hout, Steven Teerenstra,
-Elena G Lara
+Kit Roes, Joanna in 't Hout, Steven Teerenstra, Laurens Sluijterman, Elena G Lara
+
 
 

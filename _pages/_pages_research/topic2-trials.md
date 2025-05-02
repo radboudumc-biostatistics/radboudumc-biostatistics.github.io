@@ -34,7 +34,7 @@ To provide clinical trial stakeholders, trialists and regulators with a generali
 
 _(Innovative Health Initiative Joint Undertaking (IHI JU) under grant agreement No 101165912)_
 
-By bringing together experts from various fields, RealiseD ([https://realised-ihi.eu](https://realised-ihi.eu)) will generate cutting-edge operational and methodological tools and resources for drug development clinical trials for (ultra)rare diseases. It will include a co-creation process involving clinicians, methodologists, pharmaceutical industry researchers, representatives from patient organisations, regulatory agencies and HTA bodies. Biostatistics leads the Regulatory and HTA Work Package, which will deliver important research results and frameworks to directly impact regulatory and HTA decision makeink for (ultra) rare diseases.
+By bringing together experts from various fields, RealiseD ([https://realised-ihi.eu](https://realised-ihi.eu)) will generate cutting-edge operational and methodological tools and resources for drug development clinical trials for (ultra)rare diseases. It will include a co-creation process involving clinicians, methodologists, pharmaceutical industry researchers, representatives from patient organisations, regulatory agencies and HTA bodies. Biostatistics leads the Regulatory and HTA Work Package, which will deliver important research results and frameworks to directly impact regulatory and HTA decision making for (ultra) rare diseases.
 
 <br>
 
